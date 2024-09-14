@@ -5,13 +5,13 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-public class Frame extends JFrame {
+public class FrameInterface extends JFrame {
 
     private JTextField inputField;
     private JTextArea outputArea;
     private JComboBox<String> optionComboBox;
 
-    public Frame() {
+    public FrameInterface() {
         setTitle("Reconhecedor de Linguagens");
         setSize(500, 300);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
