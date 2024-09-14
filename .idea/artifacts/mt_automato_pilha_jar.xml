@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="mt-automato-pilha:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/mt_automato_pilha_jar</output-path>
+    <root id="root">
+      <element id="archive" name="mt-automato-pilha.jar">
+        <element id="module-output" name="mt-automato-pilha" />
+      </element>
+    </root>
+  </artifact>
+</component>
